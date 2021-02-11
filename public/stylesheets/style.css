@@ -1,0 +1,27 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+.nav-logo{
+  height: 1.8rem;
+  width: 1.8rem;
+  padding-right: 5px;
+}
+.navbar:hover{
+  background-color: green !important;
+}
+.nav-logo{
+  height: 1.8rem;
+  width: 1.8rem;
+  padding-right: 5px;
+}
+.nav-item .nav-link{
+  display: inline;
+}
+nav{
+  margin-bottom: 2rem ;
+}
